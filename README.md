@@ -2,7 +2,7 @@
 
 Control your TP-Link Tapo smart lights with Python to create **complex brightness patterns** and **cinematic time-lapse effects**. The possibilities are endless!
 
-## 🌟 What You Can Do
+##  What You Can Do
 
 This project demonstrates the power of programmatic control over Tapo lights using the `python-kasa` library:
 
@@ -22,7 +22,7 @@ Standard smart light apps are limited to simple on/off/dim controls. With this a
 - Automate complex lighting scenes
 - Develop your own creative patterns
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Install Dependencies
 
@@ -108,7 +108,7 @@ python fade_light.py --ip 192.168.45.111 --email you@example.com --password Your
 
 Finds all Tapo/Kasa devices on your network.
 
-## 🎨 Creating Custom Patterns
+## Creating Custom Patterns
 
 The core logic in `smooth_timelapse.py` can be adapted for endless possibilities:
 
@@ -159,7 +159,7 @@ Any Tapo light supported by `python-kasa`:
 
 See the [python-kasa documentation](https://python-kasa.readthedocs.io/) for the full list.
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 **"Could not find device"**
 - Ensure your computer and light are on the same Wi-Fi network
@@ -176,11 +176,11 @@ See the [python-kasa documentation](https://python-kasa.readthedocs.io/) for the
 **Deprecation warnings**
 - These are harmless and can be ignored (the library is updating its API)
 
-## 📝 License
+## License
 
 MIT License - Feel free to use and modify for your projects!
 
-## 🙏 Credits
+## Credits
 
 Built with [python-kasa](https://github.com/python-kasa/python-kasa) - an excellent library for controlling TP-Link smart home devices.
 
