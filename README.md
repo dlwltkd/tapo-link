@@ -1,6 +1,6 @@
 # Tapo Light Controller
 
-Control your TP-Link Tapo smart lights with Python to create **complex brightness patterns** and **cinematic time-lapse effects**. The possibilities are endless!
+Control your TP-Link Tapo smart lights with Python to create **complex brightness patterns** and **cinematic time-lapse effects**. 
 
 ##  What You Can Do
 
@@ -186,4 +186,3 @@ Built with [python-kasa](https://github.com/python-kasa/python-kasa) - an excell
 
 ---
 
-**The possibilities are truly endless.** Fork this project and create your own lighting masterpieces! 🎬✨
