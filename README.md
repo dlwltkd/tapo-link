@@ -59,7 +59,7 @@ This will scan your network and show all Tapo devices.
 python smooth_timelapse.py
 ```
 
-## 📜 Scripts
+##  Scripts
 
 ### `smooth_timelapse.py` - The Main Event
 
@@ -142,7 +142,7 @@ import random
 target_b = random.randint(20, 100)
 ```
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Smoothness Optimizations
 
